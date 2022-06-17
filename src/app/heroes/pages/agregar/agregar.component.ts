@@ -5,11 +5,6 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './agregar.component.html',
   styles: []
 })
-export class AgregarComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit() {
-  }
+export class AgregarComponent {
 
 }
